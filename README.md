@@ -14,7 +14,7 @@ Compile LaTeX documents with `latexmk` and view PDFs. Includes SyncTeX support, 
 
 ## Installation
 
-To install `latex-tools` search for [latex-tools](https://web.pulsar-edit.dev/packages/latex-tools) in the Install pane of the Pulsar settings or run `ppm install latex-tools`. Alternatively, you can run `ppm install asiloisad/pulsar-latex-tools` to install a package directly from the GitHub repository.
+To install `latex-tools` search for [latex-tools](https://web.pulsar-edit.dev/packages/latex-tools) in the Install pane of the Pulsar settings or run `ppm install latex-tools`. Alternatively, you can run `ppm install asiloisad-pulsar/latex-tools` to install a package directly from the GitHub repository.
 
 ## Installing LaTeX
 
