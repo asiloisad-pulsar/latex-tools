@@ -6,9 +6,9 @@ Compile LaTeX documents with `latexmk` and view PDFs. Includes SyncTeX support, 
 
 - **Compilation**: Build documents using `latexmk` with configurable engines.
 - **Compile-on-save**: Automatically recompile when an observed file is saved.
-- **PDF viewing**: Open PDFs internally via [pdf-viewer](https://github.com/asiloisad/pulsar-pdf-viewer) or in an external viewer.
+- **PDF viewing**: Open PDFs internally via [pdf-viewer](https://github.com/asiloisad-pulsar/pdf-viewer) or in an external viewer.
 - **SyncTeX**: Forward and backward search between source and PDF.
-- **Linter integration**: Error reporting via `linter-indie`. With [linter-bundle](https://github.com/asiloisad/pulsar-linter-bundle), errors display clickable references to log files.
+- **Linter integration**: Error reporting via `linter-indie`. With [linter-bundle](https://github.com/asiloisad-pulsar/linter-bundle), errors display clickable references to log files.
 - **Multiple builds**: Compile multiple files simultaneously with independent build states.
 - **Magic comments**: Per-file engine selection with `% !TEX program`.
 
@@ -94,7 +94,7 @@ The status bar item shows the current build state with a live timer:
 
 ## Integration with pdf-viewer
 
-This package works seamlessly with the [pdf-viewer](https://github.com/asiloisad/pulsar-pdf-viewer) package:
+This package works seamlessly with the [pdf-viewer](https://github.com/asiloisad-pulsar/pdf-viewer) package:
 
 - **SyncTeX support**: Forward and backward search between source and PDF when both packages are installed.
 - **Status bar**: The LaTeX status bar remains visible when viewing PDFs, allowing you to compile, open PDF, or clean files directly from the PDF viewer.
